@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Betrayed",
+  "base_artist": "Lil Xan",
+  "createdAt": "2026-02-22T08:31:12.980669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Betrayed by the Game",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/01_Betrayed_by_the_Game_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/02_Betrayed_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/03_Betrayed_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Betrayed (Remix)",
+      "artist": "Lil Xan feat. Yo Gotti & Rich the Kid",
+      "has_synced": true,
+      "path": "select/04_Betrayed_(Remix)_Lil_Xan_feat._Yo_Gotti_&_Rich_the_Kid.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Betrayed (Remix) (feat. Yo Gotti & Rich the Kid)",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/05_Betrayed_(Remix)_(feat._Yo_Gotti_&_Rich_the_Kid)_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "Trisomie 21",
+      "has_synced": false,
+      "path": "select/06_Betrayed_Trisomie_21.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "Gary Numan",
+      "has_synced": true,
+      "path": "select/07_Betrayed_Gary_Numan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "The Human League",
+      "has_synced": true,
+      "path": "select/08_Betrayed_The_Human_League.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "NORTHER",
+      "has_synced": true,
+      "path": "select/09_Betrayed_NORTHER.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Betrayed - 2001 - Remaster",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/10_Betrayed_-_2001_-_Remaster_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/11_Betrayed_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Betrayed - Bonus Track",
+      "artist": "Van Canto",
+      "has_synced": true,
+      "path": "select/12_Betrayed_-_Bonus_Track_Van_Canto.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "Annihilator",
+      "has_synced": true,
+      "path": "select/13_Betrayed_Annihilator.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "Metal Church",
+      "has_synced": false,
+      "path": "select/14_Betrayed_Metal_Church.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "TANKARD",
+      "has_synced": true,
+      "path": "select/15_Betrayed_TANKARD.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "Avenged Sevenfold",
+      "has_synced": true,
+      "path": "select/16_Betrayed_Avenged_Sevenfold.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Betrayed",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/17_Betrayed_Kiss.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Betrayed",
+      "artist": "Lil Xan",
+      "has_synced": false,
+      "path": "select/pl_01_Betrayed_Lil_Xan.txt"
+    }
+  ]
+}
